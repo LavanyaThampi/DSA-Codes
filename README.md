@@ -3,7 +3,7 @@ This repository contains all the hands-on Data Scienca and Analytics(DSA) codes 
 - ## Topics Covered:
 
 🧠 1. Python Programming for Data Science
-- Python basics (variables, loops, functions)
+-- Python basics (variables, loops, functions)
 - Data structures (lists, dictionaries, tuples)
 -- File handling
 -- Exception handling
