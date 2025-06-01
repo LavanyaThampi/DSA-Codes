@@ -1,9 +1,10 @@
 # DSA-Codes
 This repository contains all the hands-on Data Scienca and Analytics(DSA) codes done during the certification training.
-- ## Topics Covered
-1. Python Programming for Data Science
--- Python basics (variables, loops, functions)
--- Data structures (lists, dictionaries, tuples)
+- ## Topics Covered:
+
+🧠 1. Python Programming for Data Science
+- Python basics (variables, loops, functions)
+- Data structures (lists, dictionaries, tuples)
 -- File handling
 -- Exception handling
 -- Lambda functions, list comprehensions
